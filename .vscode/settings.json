@@ -1,0 +1,10 @@
+{
+  "prettier.configPath": "./.prettierrc",
+  "prettier.useEditorConfig": false,
+  "prettier.semi": false,
+  "prettier.vueIndentScriptAndStyle": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  }
+}
