@@ -3,8 +3,10 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <div class="w-full overflow-y-auto flex flex-col justify-center items-center">
-    <div class="bg-bg">
+  <div
+    class="w-full h-full overflow-y-auto flex flex-col justify-center items-center"
+  >
+    <div class="flex flex-col items-center p-xl text-center gap-md">
       <a href="https://vite.dev" target="_blank">
         <img src="/vite.svg" class="logo" alt="Vite logo" />
       </a>

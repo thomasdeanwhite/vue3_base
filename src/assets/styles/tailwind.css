@@ -1,0 +1,21 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-bg: #000000;
+
+  --spacing-px: 1px;
+  --spacing-xs: 2px;
+  --spacing-1.5xs: 3px;
+  --spacing-sm: 4px;
+  --spacing-1.5sm: 6px;
+  --spacing-md: 8px;
+  --spacing-1.5md: 12px;
+  --spacing-lg: 16px;
+  --spacing-1.5lg: 24px;
+  --spacing-xl: 32px;
+  --spacing-1.5xl: 48px;
+  --spacing-2xl: 64px;
+  --spacing-2.5xl: 96px;
+  --spacing-3xl: 128px;
+  --spacing-2.5xl: 192px;
+}
